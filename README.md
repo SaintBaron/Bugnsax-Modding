@@ -1,6 +1,6 @@
 <h1>Background</h1>
 <h2>Game Engine</h2>
-Placeholder
+Bugsnax uses the *[Irrlicht Engine](https://irrlicht.sourceforge.io/)*
 
 <h2>File Types</h2>
 Placeholder
