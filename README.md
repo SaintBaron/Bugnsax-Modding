@@ -2,8 +2,13 @@
 <h2>Game Engine</h2>
 Bugsnax uses the <a href="https://irrlicht.sourceforge.io/">Irrlicht Engine</a>, an "open source realtime 3D engine written in C++". You can find out more about this engine in the link before. 
 
-<h2>File Types</h2>
-Placeholder
+<h2>Common File Types</h2>
+<b>.XML [Text]</b> -  XML is a markup language without predefined tags. Whilst commonly used for data storage, it functions similarly to a script within the engine.
+<b>.IRR [Text]</b> -  IRR files contain XML and function the same way as stated above.
+<b>.OBJ [Model]</b> -  P
+<b>.X [Model]</b> -  P
+<b>.DAE [Model]</b> -  P
+<b>.DDS [Texture]</b> -  P
 
 <h2>Filesystem Structure</h2>
 Placeholder
