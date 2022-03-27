@@ -1,6 +1,6 @@
 <h1>Background</h1>
 <h2>Game Engine</h2>
-Bugsnax uses the <a href="https://irrlicht.sourceforge.io/">Irrlicht Engine</a>
+Bugsnax uses the <a href="https://irrlicht.sourceforge.io/">Irrlicht Engine</a>, an "open source realtime 3D engine written in C++". You can find out more about this engine in the link before. 
 
 <h2>File Types</h2>
 Placeholder
