@@ -1451,7 +1451,7 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>VaraibleAction</td>
+    <td>VariableAction</td>
     <td></td>
     <td></td>
     <td></td>
