@@ -120,6 +120,48 @@ Placeholder
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td>AmbientColorBottom</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>AmbientColorTop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimatedObjectIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimationType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimatorEnabled</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimatorIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>AntiAliasing</td>
     <td></td>
@@ -129,6 +171,13 @@ Placeholder
   </tr>
   <tr>
     <td>ApplyEventPerObject</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ApplyToAllAnimators</td>
     <td></td>
     <td></td>
     <td></td>
@@ -205,6 +254,27 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>BlendType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BloomAmount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BloomThreshold</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>BoundaryMax</td>
     <td></td>
     <td></td>
@@ -226,6 +296,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Box</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>BoxExtents</td>
     <td></td>
     <td></td>
@@ -234,6 +311,20 @@ Placeholder
   </tr>
   <tr>
     <td>BreakIfTrue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BurstSpawn</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ChangeMultiple</td>
     <td></td>
     <td></td>
     <td></td>
@@ -338,6 +429,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ColorGradeBlend</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ColorGradePath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>CompareAction</td>
     <td></td>
     <td></td>
@@ -436,6 +541,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>DeathParticleSystemID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>DefaultBehaviorID</td>
     <td></td>
     <td></td>
@@ -444,6 +556,13 @@ Placeholder
   </tr>
   <tr>
     <td>DefaultBehaviorOverrideValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DefaultFarValue</td>
     <td></td>
     <td></td>
     <td></td>
@@ -471,6 +590,34 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>DepthFade</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DepthOfFieldDistance</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DepthOfFieldFocalSize</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DepthOfFieldStrength</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Diffuse</td>
     <td></td>
     <td></td>
@@ -485,7 +632,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>DirectionNoise</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>DisableColWhileMoving</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DisableShadows</td>
     <td></td>
     <td></td>
     <td></td>
@@ -506,7 +667,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>DurationTimer</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Emissive</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EmitterType</td>
     <td></td>
     <td></td>
     <td></td>
@@ -569,7 +744,28 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Face</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>FadeInDuration</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FadeInTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FadeOutTime</td>
     <td></td>
     <td></td>
     <td></td>
@@ -583,7 +779,56 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>FixedMovementAxis</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>FlyingAnimName</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FogColorr</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FogDensity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FogEnd</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FogMax</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FogStart</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FogTexturePath</td>
     <td></td>
     <td></td>
     <td></td>
@@ -625,6 +870,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>GameTimeDefaultStart</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>GameTimeSpeed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>GenerateNameForObject</td>
     <td></td>
     <td></td>
@@ -639,12 +898,40 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>GlobalParticles</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Gravity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>GravityFullEffectMS</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>HasRenderables</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>HasAttractPoint</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr> 
   <tr>
     <td>HasTransparency</td>
     <td></td>
@@ -654,6 +941,13 @@ Placeholder
   </tr>
   <tr>
     <td>Height</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HideMouseCursor</td>
     <td></td>
     <td></td>
     <td></td>
@@ -737,6 +1031,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>LevelNotes</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LevelToDo</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Lighting</td>
     <td></td>
     <td></td>
@@ -793,6 +1101,48 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>MaxAngleDegrees</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MaxEndSize</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MaxLifeTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MaxPlayerCount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MaxStartColor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MaxStartSize</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>MaxSlope</td>
     <td></td>
     <td></td>
@@ -807,6 +1157,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>MinimumTimeUntilMet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MinLifeTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>MinRegion</td>
     <td></td>
     <td></td>
@@ -814,7 +1178,14 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>MinimumTimeUntilMet</td>
+    <td>MinStartColor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MinStartSize</td>
     <td></td>
     <td></td>
     <td></td>
@@ -850,6 +1221,13 @@ Placeholder
   </tr>
   <tr>
     <td>MoveTopNotCenter</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MusicEventName</td>
     <td></td>
     <td></td>
     <td></td>
@@ -926,6 +1304,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ObjectivePath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>OceanColor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>OnceCondMetAlwaysMet</td>
     <td></td>
     <td></td>
@@ -975,6 +1367,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ParticlesPerDistance</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ParticlesPerSecond</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>PathBehavior</td>
     <td></td>
     <td></td>
@@ -996,7 +1402,42 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>PivotRotationObjectID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PivotRotationPosition</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PivotRotationSpeed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Position</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PostRenderParticleSystemID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PreWarm</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1101,6 +1542,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>RespawnFloorHeight</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ReverseAnimation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ReweightCondTriggers</td>
     <td></td>
     <td></td>
@@ -1108,7 +1563,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>RotateToVelocity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Rotation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RotationSpeed</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1150,6 +1619,48 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ScaleType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleVelocityBySize</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleVelocityEaseCurve</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleVelocityEaseTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleVelocityEaseType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleVelocityEndAmount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SearchObjectID</td>
     <td></td>
     <td></td>
@@ -1164,7 +1675,49 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SetConditionMet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ShadowColor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ShadowDirection</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ShadowRotation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Shininess</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SineAmplitude</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SinePeriod</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1179,6 +1732,20 @@ Placeholder
   </tr>
   <tr>
     <td>SoundMaterial</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SortType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SoundBankPath</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1213,7 +1780,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>StartDirection</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>StartExpression</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>StartRotation</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1388,6 +1969,27 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>TotalObjects</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TrailParticleSystemID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TransformDirection</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TriggerCondition</td>
     <td></td>
     <td></td>
@@ -1409,6 +2011,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>UseDefaultGravity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>UseLinearInterpolation</td>
     <td></td>
     <td></td>
@@ -1417,6 +2026,13 @@ Placeholder
   </tr>
   <tr>
     <td>UseNavGraph</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseRespawnFloor</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1535,7 +2151,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Weather</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>WindIntensity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>WindSpeed</td>
     <td></td>
     <td></td>
     <td></td>
