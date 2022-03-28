@@ -4,7 +4,7 @@ Bugsnax uses the <a href="https://irrlicht.sourceforge.io/">Irrlicht Engine</a>,
 
 <h2>Common File Types</h2>
 <br>Below you can see some of the most commonly-used filetypes in Bugsnax. The restriction on what files can and can't be used it set by the Irrlicht Engine. You can find a full list of supported files <a href="https://irrlicht.sourceforge.io/?page_id=45">here</a>.
-<b>.XML [Text]</b> - XML files contain the XML language. This is a markup language without predefined tags. Whilst commonly used for data storage, it functions similarly to a script within the engine. Examples of this can be seen below.
+<br><b>.XML [Text]</b> - XML files contain the XML language. This is a markup language without predefined tags. Whilst commonly used for data storage, it functions similarly to a script within the engine. Examples of this can be seen below.
 <br><b>.IRR [Text]</b> - IRR files contain XML and function the same way as stated above.
 <br><b>.OBJ [Model]</b> - Wavefront .OBJ is a model filetype. These models **do not support animations or <a href=https://docs.blender.org/manual/en/latest/animation/armatures/introduction.html>armatures</a> (skeletons)**. For this reason, these models are often used for props, accessories, and terrain in Bugsnax as they **only contain <a href=https://docs.blender.org/manual/en/latest/modeling/meshes/index.html>mesh</a> data**.
 <br><b>.X [Model]</b> - DirectX .X is a model filetype. These models **do support animations and armatures** and are therefore used for animating both Grumpus and Bugsnak NPCs. 
