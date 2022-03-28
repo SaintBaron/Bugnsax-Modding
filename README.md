@@ -723,6 +723,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>EventTrigger</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ExcludeTags</td>
     <td></td>
     <td></td>
@@ -955,6 +962,13 @@ Placeholder
   </tr>
   <tr>
     <td>HighPriority</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HoldLength</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1256,6 +1270,13 @@ Placeholder
   </tr>
   <tr>
     <td>NavMeshPath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NextLevel</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1612,6 +1633,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SaveLevelLength</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Scale</td>
     <td></td>
     <td></td>
@@ -1682,6 +1710,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SetSaveLevelPath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ShadowColor</td>
     <td></td>
     <td></td>
@@ -1731,13 +1766,6 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>SoundMaterial</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>SortType</td>
     <td></td>
     <td></td>
@@ -1745,7 +1773,28 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SoundAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SoundBankPath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SoundMaterial</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SoundTrigger</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1969,6 +2018,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>TitleTriggerOverrideID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TotalObjects</td>
     <td></td>
     <td></td>
@@ -1984,6 +2040,20 @@ Placeholder
   </tr>
   <tr>
     <td>TransformDirection</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TransitionTexturePath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TransitionType</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2026,6 +2096,13 @@ Placeholder
   </tr>
   <tr>
     <td>UseNavGraph</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseObjkectFromParent</td>
     <td></td>
     <td></td>
     <td></td>
