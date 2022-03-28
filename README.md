@@ -1486,7 +1486,7 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>VariableOverrideVale</td>
+    <td>VariableOverrideValue</td>
     <td></td>
     <td></td>
     <td></td>
