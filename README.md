@@ -29,8 +29,8 @@ Bugsnax uses the <a href="https://irrlicht.sourceforge.io/">Irrlicht Engine</a>,
 <br><b>\Bugsnax\Content\Screens\</b> - This folder contains all of the images and graphics for the UI throughout the game.
 <br><b>\Bugsnax\Content\Shaders\</b> - This folder contains the files of the many <a href=https://en.wikipedia.org/wiki/Shader>shaders</a> used throughout the game. Shaders apply effects to models within the game (e.g. a shader is what makes Grumpuses look furry).
 
-<h2>Debug Menu</h2>
-Placeholder
+<h2>Debug Console</h2>
+The debug console in Bugsnax is a menu that can be accessed by pressing left shift, right shift, and pause break at the same time. The console can then be accessed using F4. With this, you can set the time of day, spawn in NPCs, and trigger events amongst other things. For more information, visit <a href=https://bugsnax.fandom.com/wiki/Debug_Mode>this page</a>.
 
 <h1>Installing Mods</h1>
 <h2>Using Vortex</h2>
