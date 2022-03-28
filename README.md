@@ -79,7 +79,7 @@ Placeholder
 <br>
 <table>
   <tr>
-    <th>Name</th>
+    <th>Attribute</th>
     <th>Type</th>
     <th>Description</th>
     <th>Example</th>
