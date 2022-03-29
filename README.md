@@ -391,6 +391,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ChangeAttributeAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ChangeMultiple</td>
     <td></td>
     <td></td>
@@ -560,6 +567,20 @@ Placeholder
   </tr>
   <tr>
     <td>CompareObjectIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CompareValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CompareVariableID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1091,6 +1112,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>IgnoreLocks</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>IgnorePosition</td>
     <td></td>
     <td></td>
@@ -1120,6 +1148,13 @@ Placeholder
   </tr>
   <tr>
     <td>InnerCone</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>InputCondition</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1582,6 +1617,20 @@ Placeholder
   </tr>
   <tr>
     <td>PivotRotationSpeed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PlayerActionName</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PlayerInput</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2295,7 +2344,7 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>UndoTriggerRevert</td>
+    <td>UndoOnTriggerRevert</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2330,6 +2379,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>UseMeshCenterPosition</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>UseNavGraph</td>
     <td></td>
     <td></td>
@@ -2338,6 +2394,13 @@ Placeholder
   </tr>
   <tr>
     <td>UseObjkectFromParent</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseParentRotation</td>
     <td></td>
     <td></td>
     <td></td>
