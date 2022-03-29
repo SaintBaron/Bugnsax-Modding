@@ -215,6 +215,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SubLevelObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TriggerEventObject</td>
     <td>Node</td>
     <td></td>
@@ -1207,7 +1214,7 @@ Placeholder
   </tr>
   <tr>
     <td>EndCondition</td>
-    <td>Node</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2817,7 +2824,7 @@ Placeholder
   </tr>
   <tr>
     <td>StartCondition</td>
-    <td>Node</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
