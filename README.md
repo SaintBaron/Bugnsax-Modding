@@ -117,6 +117,27 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>BugsnaxObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CameraObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CharacterBehaviorObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ClassObject</td>
     <td>Node</td>
     <td></td>
@@ -125,6 +146,13 @@ Placeholder
   </tr>
   <tr>
     <td>ConditionalTrigger</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DataObject</td>
     <td>Node</td>
     <td></td>
     <td></td>
@@ -268,6 +296,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>AllowMotionBlur</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>AllowOneMarkerTwoObjects</td>
     <td></td>
     <td></td>
@@ -318,6 +353,13 @@ Placeholder
   </tr>
   <tr>
     <td>AngularForceMode</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimatedObjectID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -388,6 +430,20 @@ Placeholder
   </tr>
   <tr>
     <td>ApplyEventPerObject</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ApplyEventPerObjectTransform</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ApplyEventPerObjectVisibleOnly</td>
     <td></td>
     <td></td>
     <td></td>
@@ -492,6 +548,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>BlendAmount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>BlendOperation</td>
     <td></td>
     <td></td>
@@ -548,7 +611,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>BoxBotScale</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>BoxExtents</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BoxTopScale</td>
     <td></td>
     <td></td>
     <td></td>
@@ -584,6 +661,34 @@ Placeholder
   </tr>
   <tr>
     <td>BurstSpawn</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CameraID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CameraMode</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CameraTargetMode</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CamTransitionSpeed</td>
     <td></td>
     <td></td>
     <td></td>
@@ -660,6 +765,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ClampBounds</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ClassCollision</td>
     <td></td>
     <td></td>
@@ -668,6 +780,13 @@ Placeholder
   </tr>
   <tr>
     <td>ClimbingWaypointIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ColliderIDs</td>
     <td></td>
     <td></td>
     <td></td>
@@ -696,6 +815,27 @@ Placeholder
   </tr>
   <tr>
     <td>CollideOnlyTriggers</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CollisionAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CollisionComparison</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>CollisionThreshold</td>
     <td></td>
     <td></td>
     <td></td>
@@ -822,6 +962,13 @@ Placeholder
   </tr>
   <tr>
     <td>ContinuousUpdate</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ControlType</td>
     <td></td>
     <td></td>
     <td></td>
@@ -961,7 +1108,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>DisableDamping</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>DisableOnComplete</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DisablePlayerControl</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1040,6 +1201,13 @@ Placeholder
   <tr>
     <td>EndAlignVert</td>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EndCondition</td>
+    <td>Node</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1150,6 +1318,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>FarValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>FixedMovementAxis</td>
     <td></td>
     <td></td>
@@ -1158,6 +1333,13 @@ Placeholder
   </tr>
   <tr>
     <td>FlyingAnimName</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FocalOffset</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1225,7 +1407,14 @@ Placeholder
     <td></td>
     <td></td>
     <td></td>
-  </tr> 
+  </tr>
+  <tr>
+    <td>FollowPlayerBodyY</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>FollowTarget</td>
     <td></td>
@@ -1255,6 +1444,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ForceCrossfade</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ForceDuration</td>
     <td></td>
     <td></td>
@@ -1270,6 +1466,13 @@ Placeholder
   </tr>
   <tr>
     <td>ForceSource</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FOV</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1528,6 +1731,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>LimitPerObjectDuration</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>LinearDriveVelocity</td>
     <td></td>
     <td></td>
@@ -1557,6 +1767,20 @@ Placeholder
   </tr>
   <tr>
     <td>LocalRotation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LockDebugPreview</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LockOntoFirstTarget</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1724,6 +1948,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>MoveMeshNode</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>MoveMode</td>
     <td></td>
     <td></td>
@@ -1836,6 +2067,34 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>OffScreenAspectRatio</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>OffScreenRender</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>OffScreenTargetID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Offset</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>OnceCondMetAlwaysMet</td>
     <td></td>
     <td></td>
@@ -1844,6 +2103,13 @@ Placeholder
   </tr>
   <tr>
     <td>OnTriggerEvent</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>OverrideTargetID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1997,6 +2263,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>PriorityLevel</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>PropertyName</td>
     <td></td>
     <td></td>
@@ -2102,6 +2375,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>RequiredTags</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ResetOnDisable</td>
     <td></td>
     <td></td>
@@ -2117,6 +2397,13 @@ Placeholder
   </tr>
   <tr>
     <td>RespawnFloorHeight</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RestoreAnimationOnDisable</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2201,6 +2488,62 @@ Placeholder
   </tr>
   <tr>
     <td>Scale</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleInEaseCurve</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleInEaseTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleInEaseType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleInStartSize</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleOutEaseCurve</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleOutEaseTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleOutEaseType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ScaleOutEndSize</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2319,6 +2662,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ShadowMapMultiplier</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ShadowRotation</td>
     <td></td>
     <td></td>
@@ -2396,6 +2746,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SourceExpression</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SpawnMode</td>
     <td></td>
     <td></td>
@@ -2454,6 +2811,13 @@ Placeholder
   <tr>
     <td>StartAtClosestWaypoint</td>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>StartCondition</td>
+    <td>Node</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2592,7 +2956,28 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>TargetObjectIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TargetPriority</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TargetRatio</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TargetRequiredTags</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2684,6 +3069,20 @@ Placeholder
   </tr>
     <tr>
     <td>TimeToComplete</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TimeUntilMet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TimeUntilStart</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2802,6 +3201,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>UIAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UIElement</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Update3D</td>
     <td></td>
     <td></td>
@@ -2823,6 +3236,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>UseDefaultFarValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseDefaultFOV</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>UseDefaultGravity</td>
     <td></td>
     <td></td>
@@ -2831,6 +3258,13 @@ Placeholder
   </tr>
   <tr>
     <td>UseDefaultIterationCount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseDefaultNearValue</td>
     <td></td>
     <td></td>
     <td></td>
