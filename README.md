@@ -40,7 +40,6 @@ Placeholder
 <h2>Manual Installation</h2>
 Placeholder
 
-
 <h1>Compiling and Uploading</h1>
 Placeholder
 
@@ -76,13 +75,18 @@ Placeholder
 
 
 <h1>.IRR XML Code Library</h1>
+<br><b>Attribute</b> - A piece of XML that does something (a function) by declaring a piece of data (e.g. the colour something is, a file path, if something is true or false, the position of something, the name of something, just to name a few)
+<br><b>Type</b> - The data type of this attribute. These include strings, booleans (bools), integers (ints), enumerations (enums), vector3d (x, y, Z), vector2d, IDs, expressions, floats, paths, and nodes.
+<br><b>Description</b> - This descibes what a specific attribute does.
+<br><b>Parent Object</b> - This describes what parent object (node) the attribute is used within. For example, something may only be used inside of a material node, a TriggerObject node (when something happens), or a PhysicsObject node (e.g. a prop). The complete list of parent objects (nodes) can be seen in the table below.
+<br><b>Example</b> - An single line example of the attribute being used in practice. Examples of the attribute being used in full context can be seen at the XML Examples section at the bottom.
 <br>
 <table>
   <tr>
     <th>Attribute</th>
     <th>Type</th>
     <th>Description</th>
-    <th>Parent Attribute</th>
+    <th>Parent Object</th>
     <th>Example</th>
   </tr>
   <tr>
