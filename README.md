@@ -94,7 +94,7 @@ Placeholder
     <td>float</td>
     <td>NavMeshObject</td>
     <td></td>
-    <td>"<float name="AgentHeight" value="3.000000" />"</td>
+    <td>&lt;float name="AgentHeight" value="3.000000" /&gt;</td>
   </tr>
   <tr>
     <td>AgentRadius</td>
