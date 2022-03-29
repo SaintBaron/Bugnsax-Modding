@@ -331,6 +331,27 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>AnimatePosition</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimateRotation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimateScale</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>AnimationType</td>
     <td></td>
     <td></td>
@@ -430,6 +451,13 @@ Placeholder
   </tr>
   <tr>
     <td>BackfaceCulling</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BaseID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -800,6 +828,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>CreateAtRootLevel</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>CreateSkin</td>
     <td></td>
     <td></td>
@@ -920,6 +955,13 @@ Placeholder
   </tr>
   <tr>
     <td>DisableColWhileMoving</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DisableOnComplete</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1199,6 +1241,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ForceAnimationStart</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ForceBehaviorStart</td>
     <td></td>
     <td></td>
@@ -1340,6 +1389,13 @@ Placeholder
   </tr>
   <tr>
     <td>Id</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>IgnoreBehaviorStartExpression</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1493,6 +1549,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>LinearMovement</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>LocalRotation</td>
     <td></td>
     <td></td>
@@ -1501,6 +1564,13 @@ Placeholder
   </tr>
   <tr>
     <td>LookDistance</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Loop</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1850,6 +1920,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>PingPong</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>PivotRotationObjectID</td>
     <td></td>
     <td></td>
@@ -1879,6 +1956,20 @@ Placeholder
   </tr>
   <tr>
     <td>PlayerInput</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Point</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PoolType</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2123,6 +2214,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ScaleTransition</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ScaleType</td>
     <td></td>
     <td></td>
@@ -2298,6 +2396,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SpawnMode</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SpawnType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Specular</td>
     <td></td>
     <td></td>
@@ -2390,6 +2502,13 @@ Placeholder
   </tr>
   <tr>
     <td>StoppingDistance</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>StoreIDVariableID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2536,7 +2655,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Tightness</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TileSize</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TimeRange</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2549,8 +2682,8 @@ Placeholder
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td>TimeRange</td>
+    <tr>
+    <td>TimeToComplete</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2662,6 +2795,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Type</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Update3D</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>UndoOnTriggerRevert</td>
     <td></td>
     <td></td>
@@ -2684,6 +2831,13 @@ Placeholder
   </tr>
   <tr>
     <td>UseDefaultIterationCount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseGlobalPool</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2824,6 +2978,13 @@ Placeholder
   </tr>
   <tr>
     <td>VariableValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VisCountVariableID</td>
     <td></td>
     <td></td>
     <td></td>
