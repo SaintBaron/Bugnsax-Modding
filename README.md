@@ -94,14 +94,14 @@ Placeholder
     <td>float</td>
     <td>NavMeshObject</td>
     <td></td>
-    <td><float name="AgentHeight" value="3.000000" /></td>
+    <td>"<float name="AgentHeight" value="3.000000" />"</td>
   </tr>
   <tr>
     <td>AgentRadius</td>
     <td>float</td>
     <td>NavMeshObject</td>
     <td></td>
-    <td><float name="AgentRadius" value="2.000000" /></td>
+    <td>"<float name="AgentRadius" value="2.000000" />"</td>
   </tr>
   <tr>
     <td>AllowBackLighting</td>
