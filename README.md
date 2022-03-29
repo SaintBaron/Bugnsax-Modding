@@ -90,6 +90,13 @@ Placeholder
     <th>Example</th>
   </tr>
   <tr>
+    <td>AddContinuously</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>AgentHeight</td>
     <td>float</td>
     <td>NavMeshObject</td>
@@ -101,7 +108,7 @@ Placeholder
     <td>float</td>
     <td>NavMeshObject</td>
     <td></td>
-    <td>"<float name="AgentRadius" value="2.000000" />"</td>
+    <td>&lt;float name="AgentRadius" value="2.000000" /&gt;</td>
   </tr>
   <tr>
     <td>AllowBackLighting</td>
@@ -112,6 +119,13 @@ Placeholder
   </tr>
   <tr>
     <td>AllowInMultiPass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AllowOneMarkerTwoObjects</td>
     <td></td>
     <td></td>
     <td></td>
@@ -133,6 +147,27 @@ Placeholder
   </tr>
     <tr>
     <td>AmbientColorTop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AngularDriveVelocity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AngularForce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AngularForceMode</td>
     <td></td>
     <td></td>
     <td></td>
@@ -174,7 +209,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ApplyBuoyancy</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ApplyEventPerObject</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ApplyLocally</td>
     <td></td>
     <td></td>
     <td></td>
@@ -314,7 +363,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>BreakForce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>BreakIfTrue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BreakTorque</td>
     <td></td>
     <td></td>
     <td></td>
@@ -406,6 +469,13 @@ Placeholder
   </tr>
   <tr>
     <td>CollideIDTags</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ColliderJointedObjects</td>
     <td></td>
     <td></td>
     <td></td>
@@ -525,6 +595,13 @@ Placeholder
   </tr>
   <tr>
     <td>Continuity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ContinuousUpdate</td>
     <td></td>
     <td></td>
     <td></td>
@@ -658,6 +735,13 @@ Placeholder
   </tr>
   <tr>
     <td>DivisionCount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DrivePositionMarkerID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -867,7 +951,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ForceDuration</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ForcePin</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ForceSource</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1042,6 +1140,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>JointEnabled</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JointType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Jump</td>
     <td></td>
     <td></td>
@@ -1071,6 +1183,27 @@ Placeholder
   </tr>
   <tr>
     <td>LightType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LinearDriveVelocity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LinearForce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LinearForceMode</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1183,6 +1316,13 @@ Placeholder
   </tr>
   <tr>
     <td>MinLifeTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MinMassToScaleForce</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1553,6 +1693,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>RepelObjects</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>RemoveTempJointsTagged</td>
     <td></td>
     <td></td>
@@ -1714,6 +1861,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SetDynamic</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SetSaveLevelPath</td>
     <td></td>
     <td></td>
@@ -1743,6 +1897,13 @@ Placeholder
   </tr>
   <tr>
     <td>Shininess</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ShowTrajectoryLine</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1917,6 +2078,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Swing</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Tags</td>
     <td></td>
     <td></td>
@@ -2043,6 +2211,34 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>TrajectoryEndObjectID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TrajectoryIgnoreTags</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TrajectoryInvalid</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TrajectoryInvalidTags</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TransformDirection</td>
     <td></td>
     <td></td>
@@ -2078,6 +2274,27 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Twist</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TwistAccel</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TwistDrive</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>UndoTriggerRevert</td>
     <td></td>
     <td></td>
@@ -2086,6 +2303,20 @@ Placeholder
   </tr>
   <tr>
     <td>UseDefaultGravity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseDefaultIterationCount</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseJointAsMarker</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2149,6 +2380,13 @@ Placeholder
   </tr>
   <tr>
     <td>VariableAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VariableObjectMultID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2225,6 +2463,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>VisualizeTrajectory</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>WalkingAnimName</td>
     <td></td>
     <td></td>
@@ -2247,6 +2492,34 @@ Placeholder
   </tr>
   <tr>
     <td>WindSpeed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Y</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Z</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ZeroOutPreviousVelocity</td>
     <td></td>
     <td></td>
     <td></td>
