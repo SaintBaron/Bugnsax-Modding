@@ -76,10 +76,153 @@ Placeholder
 
 <h1>.IRR XML Code Library</h1>
 <br><b>Attribute</b> - A piece of XML that does something (a function) by declaring a piece of data (e.g. the colour something is, a file path, if something is true or false, the position of something, the name of something, just to name a few)
-<br><b>Type</b> - The data type of this attribute. These include strings, booleans (bools), integers (ints), enumerations (enums), vector3d (x, y, Z), vector2d, IDs, expressions, floats, paths, and nodes.
+<br><b>Type</b> - The data type of this attribute. These include strings, booleans (bools), integers (ints), enumerations (enums), vector3d (x, y, Z), vector2d, IDs, colors, expressions, floats, paths, dimension2d, nodes, and subnodes.
 <br><b>Description</b> - This descibes what a specific attribute does.
 <br><b>Parent Object</b> - This describes what parent object (node) the attribute is used within. For example, something may only be used inside of a material node, a TriggerObject node (when something happens), or a PhysicsObject node (e.g. a prop). The complete list of parent objects (nodes) can be seen in the table below.
 <br><b>Example</b> - An single line example of the attribute being used in practice. Examples of the attribute being used in full context can be seen at the XML Examples section at the bottom.
+<br>
+<br>
+
+
+
+<h2>Nodes</h2>
+<br>
+<table>
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Parent Object</th>
+    <th>Description</th>
+    <th>Example</th>
+  </tr> 
+  <tr>
+    <td>animators</td>
+    <td>Sub-Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>attributes</td>
+    <td>Sub-Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BillboardObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ClassObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ConditionalTrigger</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JointObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MarkerObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>materials</td>
+    <td>Sub-Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NavMeshObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ConditionalTrigger</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PhysicsObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SceneObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SoundObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TriggerEventObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TriggerObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td>VariableObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>WaypointObject</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+<br>
+<br>
+
+
+
+  
+  
+<h2>PLACEHOLDER</h2>
 <br>
 <table>
   <tr>
@@ -147,6 +290,13 @@ Placeholder
   </tr>
     <tr>
     <td>AmbientColorTop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AmbientLight</td>
     <td></td>
     <td></td>
     <td></td>
@@ -300,6 +450,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>BillboardEffect</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BillboardType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>BlendOperation</td>
     <td></td>
     <td></td>
@@ -378,6 +542,13 @@ Placeholder
   </tr>
   <tr>
     <td>BreakTorque</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Build</td>
     <td></td>
     <td></td>
     <td></td>
@@ -650,6 +821,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>DecalTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>DefaultBehaviorID</td>
     <td></td>
     <td></td>
@@ -797,6 +975,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>Enabled</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EnabledInEditor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>EndAlignHoriz</td>
     <td></td>
     <td></td>
@@ -846,7 +1038,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ExcludedObjectIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ExcludedVarObjID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ExportGrassMap</td>
     <td></td>
     <td></td>
     <td></td>
@@ -861,6 +1067,13 @@ Placeholder
   </tr>
   <tr>
     <td>Face</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FaceCamera</td>
     <td></td>
     <td></td>
     <td></td>
@@ -909,7 +1122,7 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>FogColorr</td>
+    <td>FogColor</td>
     <td></td>
     <td></td>
     <td></td>
@@ -937,6 +1150,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>FogPixel</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FogRange</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>FogStart</td>
     <td></td>
     <td></td>
@@ -950,6 +1177,13 @@ Placeholder
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>FogType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr> 
   <tr>
     <td>FollowTarget</td>
     <td></td>
@@ -1029,6 +1263,13 @@ Placeholder
   </tr>
   <tr>
     <td>GlobalParticles</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>GrassMapPath</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1168,6 +1409,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>IsDrawnLast</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>IsPickable</td>
     <td></td>
     <td></td>
@@ -1273,13 +1521,6 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>materials</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>MaxAngleChange</td>
     <td></td>
     <td></td>
@@ -1330,6 +1571,13 @@ Placeholder
   </tr>
   <tr>
     <td>MaxSlope</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MaxSlopeAngle</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1742,6 +1990,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ReflectMapPath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>RepelObjects</td>
     <td></td>
     <td></td>
@@ -1750,6 +2005,13 @@ Placeholder
   </tr>
   <tr>
     <td>RemoveTempJointsTagged</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ResetOnDisable</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1771,6 +2033,13 @@ Placeholder
   </tr>
   <tr>
     <td>ReverseAnimation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Reversed</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1847,6 +2116,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ScaleToCamera</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ScaleType</td>
     <td></td>
     <td></td>
@@ -1890,6 +2166,13 @@ Placeholder
   </tr>
   <tr>
     <td>SearchObjectID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SerializedTextures</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2016,6 +2299,27 @@ Placeholder
   </tr>
   <tr>
     <td>Specular</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SplatBaseDistanceScale</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SplatBaseTextureScale</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SplatMapPath</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2218,6 +2522,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>TextureWrapU1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TextureWrapV1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TileSize</td>
     <td></td>
     <td></td>
@@ -2345,6 +2663,13 @@ Placeholder
   </tr>
   <tr>
     <td>UndoOnTriggerRevert</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseAbsoluteScale</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2540,7 +2865,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>WaterFoamPath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Weather</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Width</td>
     <td></td>
     <td></td>
     <td></td>
