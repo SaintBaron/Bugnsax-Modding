@@ -166,6 +166,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>light</td>
+    <td>Node</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>MarkerObject</td>
     <td>Node</td>
     <td></td>
@@ -268,6 +275,27 @@ Placeholder
     <th>Example</th>
   </tr>
   <tr>
+    <td>AchievementDesc</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AchievementID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AchievementName</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>AddContinuously</td>
     <td></td>
     <td></td>
@@ -311,6 +339,13 @@ Placeholder
   </tr>
   <tr>
     <td>AllowOneMarkerTwoObjects</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AllowZeroValue</td>
     <td></td>
     <td></td>
     <td></td>
@@ -374,6 +409,13 @@ Placeholder
   </tr>
   <tr>
     <td>AnimatedObjectIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AnimateOnVariableRange</td>
     <td></td>
     <td></td>
     <td></td>
@@ -479,6 +521,20 @@ Placeholder
   </tr>
   <tr>
     <td>AttributeAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AttributeCategory</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AttributeType</td>
     <td></td>
     <td></td>
     <td></td>
@@ -702,6 +758,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>CastShadow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ChangeAttributeAction</td>
     <td></td>
     <td></td>
@@ -793,6 +856,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ClipObject</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ClipTransparent</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ColliderIDs</td>
     <td></td>
     <td></td>
@@ -822,6 +899,13 @@ Placeholder
   </tr>
   <tr>
     <td>CollideOnlyTriggers</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CollideTriggersWhileMoving</td>
     <td></td>
     <td></td>
     <td></td>
@@ -926,7 +1010,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>CompareValueEnd</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>CompareVariableID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CompareVariableEndID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1171,6 +1269,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>EaseCurve</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EaseType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Emissive</td>
     <td></td>
     <td></td>
@@ -1227,6 +1339,20 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>EndValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EndValueID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>EventDelay</td>
     <td></td>
     <td></td>
@@ -1248,13 +1374,6 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>ExcludeTags</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>ExcludedObjectIDs</td>
     <td></td>
     <td></td>
@@ -1263,6 +1382,27 @@ Placeholder
   </tr>
   <tr>
     <td>ExcludedVarObjID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ExcludePositionAxes</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ExcludeRotationAxes</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ExcludeTags</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1326,6 +1466,13 @@ Placeholder
   </tr>
   <tr>
     <td>FarValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FindNearestLedge</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1654,6 +1801,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>IgnoreVisibility</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>InnerCone</td>
     <td></td>
     <td></td>
@@ -1662,6 +1816,13 @@ Placeholder
   </tr>
   <tr>
     <td>InputCondition</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>InteractRequired</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1696,6 +1857,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>JointName</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>JointType</td>
     <td></td>
     <td></td>
@@ -1704,6 +1872,13 @@ Placeholder
   </tr>
   <tr>
     <td>Jump</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LeniencyDuration</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1836,6 +2011,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>MaxCompareDistance</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>MaxEndSize</td>
     <td></td>
     <td></td>
@@ -1844,6 +2026,13 @@ Placeholder
   </tr>
   <tr>
     <td>MaxLifeTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MaxPickDistance</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1885,6 +2074,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>MaxTargetDistance</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>MeshFileName</td>
     <td></td>
     <td></td>
@@ -1907,6 +2103,13 @@ Placeholder
   </tr>
   <tr>
     <td>MinMassToScaleForce</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MinPickDistance</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2025,13 +2228,6 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>node</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>NotificationAction</td>
     <td></td>
     <td></td>
@@ -2054,6 +2250,13 @@ Placeholder
   </tr>
   <tr>
     <td>ObjectIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ObjectIDListVarID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2110,6 +2313,13 @@ Placeholder
   </tr>
   <tr>
     <td>OnTriggerEvent</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>OverrideObjectID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2193,6 +2403,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>PickAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>PingPong</td>
     <td></td>
     <td></td>
@@ -2270,6 +2487,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>PrioritizeAwayFromPlayer</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>PriorityLevel</td>
     <td></td>
     <td></td>
@@ -2333,7 +2557,35 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>RansomizeValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Randomness</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RaycastEndID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RaycastMaxDistance</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RaycastMoveToFloor</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2347,7 +2599,35 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>RaycastRadius</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RaycastStartID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>ReactingAnimName</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ReceiveShadow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RecycleSpawns</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2466,7 +2746,35 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SaveAttributenAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SaveAttributenCategory</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SaveAttributenName</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SaveAttributenType</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SaveAttributenValue</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2613,7 +2921,28 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>ScaleYForceWithoutRotation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SearchObjectID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SecondaryCompareObjectIDs</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SendAsApplyPerObject</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2649,6 +2978,20 @@ Placeholder
   </tr>
   <tr>
     <td>SetSaveLevelPath</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Shade_Down</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Shade_Top</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2767,6 +3110,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>SpawnTime</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SpawnType</td>
     <td></td>
     <td></td>
@@ -2844,7 +3194,28 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>StartFromOriginalValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>StartRotation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>StartValue</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>StartValueID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2859,6 +3230,13 @@ Placeholder
   </tr>
   <tr>
     <td>StopForPlayer</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>StopOnTriggerCancelled</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2922,6 +3300,13 @@ Placeholder
   </tr>
   <tr>
     <td>Swing</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TagExpression</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3033,14 +3418,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>TextureWrapU1</td>
+    <td>TextureWrapU</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>TextureWrapV1</td>
+    <td>TextureWrapV</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ThresholdType</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3055,6 +3447,13 @@ Placeholder
   </tr>
   <tr>
     <td>TileSize</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TimeMultiplier</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3173,6 +3572,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>TriggeredObjectStoreVarID</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>TriggerStartExpression</td>
     <td></td>
     <td></td>
@@ -3237,6 +3643,13 @@ Placeholder
   </tr>
   <tr>
     <td>UseAbsoluteScale</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseCurrentJoint</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3313,7 +3726,21 @@ Placeholder
     <td></td>
   </tr>
   <tr>
-    <td>UseObjkectFromParent</td>
+    <td>UseObjectIDCollisions</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseObjectFromParent</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UseParentPosition</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3321,6 +3748,13 @@ Placeholder
   </tr>
   <tr>
     <td>UseParentRotation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>UsePlayerCameraToCast</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3348,6 +3782,13 @@ Placeholder
     <td></td>
   </tr>
   <tr>
+    <td>UseThrowDistanceCylinder</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>UseTransparencyRef</td>
     <td></td>
     <td></td>
@@ -3363,6 +3804,13 @@ Placeholder
   </tr>
   <tr>
     <td>VariableAction</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VariableID</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3524,6 +3972,13 @@ Placeholder
   </tr>
   <tr>
     <td>ZeroOutPreviousVelocity</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ZBuffer</td>
     <td></td>
     <td></td>
     <td></td>
