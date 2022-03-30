@@ -264,13 +264,13 @@ Placeholder
 
   
   
-<h2>PLACEHOLDER</h2>
+<h2>The section below will be broken up into separate tables according to their parent nodes</h2>
 <br>
 <table>
   <tr>
     <th>Attribute</th>
     <th>Type</th>
-    <th>Parent Object</th>
+    <th>Parent Node</th>
     <th>Description</th>
     <th>Example</th>
   </tr>
