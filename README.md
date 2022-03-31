@@ -1870,6 +1870,13 @@ Placeholder
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td>IsScatterShot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>JointBreakForce</td>
     <td></td>
